@@ -1,6 +1,5 @@
 ![banner](./image/banner.png) 
 
-# Murilo H.
 
 Cybersecurity • OSINT • CTI • CTF Player
 
