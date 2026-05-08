@@ -1,6 +1,7 @@
 ![banner](./image/banner.png) 
 
 
+
 Cybersecurity • OSINT • CTI • CTF Player
 
 Estudante de tecnologia focado em:
