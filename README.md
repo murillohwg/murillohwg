@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./image/banner.png" width="100%" /> </p>
 
-# Murilo H.
+# murillohwg
 
 OSINT • CTI • Cybersecurity
 
