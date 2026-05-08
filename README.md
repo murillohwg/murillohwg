@@ -1,54 +1,20 @@
-# 👋 Olá, eu sou Murillo ✋😎
+# Murilo H.
 
-## 🛡️ Cybersecurity | OSINT | CTI | CTF Player
+Cybersecurity • OSINT • CTI • CTF Player
 
-Sou estudante de tecnologia com foco em:
-- OSINT
-- Cybersecurity
+Estudante de tecnologia focado em:
+- Open Source Intelligence (OSINT)
 - Threat Intelligence
 - Investigação Digital
+- Cybersecurity
 
-Atualmente desenvolvendo:
-- Writeups de CTFs
-- Estudos de segurança
-- Projetos voltados para investigação e análise de informações abertas
+## Featured Repositories
+- OSINT CTF Writeups
+- GEOINT Challenges
+- Investigation Reports
+- Security Studies
 
----
-
-## 🔍 Áreas de Interesse
-
-- OSINT
-- GEOINT
-- CTI
+## Research about
 - DFIR
-- Web Security
 - Malware Analysis
-
----
-
-## 🧠 Plataformas
-
-- InvestigaOSINT
-- TryHackMe 
-- Hack The Box 
-- picoCTF
-
----
-
-## 📂 Writeups
-
-Confira meus repositórios de CTFs e investigações:
-- Writeups OSINT
-- GEOINT
-- Análise de imagens
-- Correlação de informações
-- Investigações digitais
-- Web Exploitation
-
----
-
-## 🎯 Objetivos
-
-- Aprimorar técnicas de investigação
-- Desenvolver ferramentas próprias
-- Construir portfólio na área de Cybersecurity
+- Web Security
