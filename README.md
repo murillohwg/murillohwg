@@ -1,22 +1,21 @@
-![banner](./image/banner.png) 
+<p align="center">
+  <img src="./images/banner.png" width="100%" />
+</p>
 
+# Murilo H.
 
+OSINT • CTI • Cybersecurity
 
-Cybersecurity • OSINT • CTI • CTF Player
+Digital investigations, CTF writeups and cybersecurity studies.
 
-Estudante de tecnologia focado em:
-- Open Source Intelligence (OSINT)
+## Focus Areas
+- Open Source Intelligence
 - Threat Intelligence
-- Investigação Digital
-- Cybersecurity
+- GEOINT
+- Digital Investigation
+- DFIR (learning)
 
-## Featured Repositories
+## Featured Content
 - OSINT CTF Writeups
-- GEOINT Challenges
 - Investigation Reports
-- Security Studies
-
-## Research about
-- DFIR
-- Malware Analysis
-- Web Security
+- Security Research
