@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou Murillo ✋😎
 
-<!--
-**murillohwg/murillohwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity | OSINT | CTI | CTF Player
 
-Here are some ideas to get you started:
+Sou estudante de tecnologia com foco em:
+- OSINT
+- Cybersecurity
+- Threat Intelligence
+- Investigação Digital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente desenvolvendo:
+- Writeups de CTFs
+- Estudos de segurança
+- Projetos voltados para investigação e análise de informações abertas
+
+---
+
+## 🔍 Áreas de Interesse
+
+- OSINT
+- GEOINT
+- CTI
+- DFIR
+- Web Security
+- Malware Analysis
+
+---
+
+## 🧠 Plataformas
+
+- InvestigaOSINT
+- TryHackMe 
+- Hack The Box 
+- picoCTF
+
+---
+
+## 📂 Writeups
+
+Confira meus repositórios de CTFs e investigações:
+- Writeups OSINT
+- GEOINT
+- Análise de imagens
+- Correlação de informações
+- Investigações digitais
+- Web Exploitation
+
+---
+
+## 🎯 Objetivos
+
+- Aprimorar técnicas de investigação
+- Desenvolver ferramentas próprias
+- Construir portfólio na área de Cybersecurity
