@@ -3,6 +3,6 @@
 
 # murillohwg
 
-OSINT • CTI • Cybersecurity
+Analyst Cybersecurity Enthusiast
 
-Digital investigations, CTF writeups and cybersecurity studies.
+Blue Team, Red Team, Digital investigations, CTF writeups and cybersecurity studies.
