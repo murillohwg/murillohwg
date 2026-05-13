@@ -1,11 +1,9 @@
-# Mhwg - Cybersecurity & Cloud Security
+# Mhwg - Independent Security Researcher 
 
-Estudante de TI focado em:
-- Cloud Security
-- IAM
-- OSINT
+Estudante de Ciência da Computação focado em:
 - Segurança ofensiva e defensiva
-- AWS Labs
+- Cloud Security
+- OSINT
 - Documentação técnica
 
 ## Projetos em destaque
