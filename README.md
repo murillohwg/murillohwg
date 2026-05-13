@@ -9,12 +9,10 @@ Estudante de TI focado em:
 - Documentação técnica
 
 ## Projetos em destaque
+- [PySentinel](https://github.com/murillohwg/PySentinel---real-time-brute-force-detection-engine) & [RootCrawlerAI](https://github.com/murillohwg/RootCrawlerAI--AI-Sec-Scanner)  
 - AWS IAM Labs
 - Writeups de desafios(CTF's)
 - Estudos de segurança
-
-## Tecnologias
-AWS • Linux • Git • IAM • Markdown • Redes • OSINT • Python
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
