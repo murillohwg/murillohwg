@@ -1,4 +1,4 @@
-# Mhwg - Independent Security Researcher 
+# Mhwg - Independent Cybersecurity Researcher 
 
 Estudante de Ciência da Computação focado em:
 - Segurança ofensiva e defensiva
