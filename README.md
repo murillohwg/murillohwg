@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./image/banner.png" width="100%" /> </p>
-
 # Mhwg - Cybersecurity & Cloud Security
 
 Estudante de TI focado em:
