@@ -1,4 +1,4 @@
-# Mhwg - Independent Cybersecurity Researcher 
+# Murillohwg - Independent Cybersecurity Researcher 
 
 Estudante de Ciência da Computação focado em:
 - Segurança ofensiva e defensiva
