@@ -7,9 +7,9 @@ Estudante de Ciência da Computação focado em:
 - Documentação técnica
 
 ## Projetos em destaque
-- [pysentinel](https://github.com/murillohwg/pysentinel-miniSIEM) & [rootcrawlerAI](https://github.com/murillohwg/rootcrawlerAI-secscanner)  
-- [AWS hands-on labs](https://github.com/murillohwg/aws-cloud-labs) 
+- [pysentinel](https://github.com/murillohwg/pysentinel-miniSIEM) & [rootcrawlerAI](https://github.com/murillohwg/rootcrawlerAI-secscanner)
 - [CTF writeups](https://github.com/murillohwg/ctf-writeups)
+- [AWS hands-on labs](https://github.com/murillohwg/aws-cloud-labs) 
 - Estudos de segurança
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
