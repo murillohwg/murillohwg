@@ -1,16 +1,16 @@
 # Murillohwg - Independent Cybersecurity Researcher 
 
-Estudante de Ciência da Computação focado em:
-- Segurança ofensiva e defensiva
+Computer Science Student focusing:
+- Deffensive and Offensive Security
 - Cloud Security
 - OSINT
-- Documentação técnica
+- Technical Documentation
 
 ## Projetos em destaque
 - [pysentinel](https://github.com/murillohwg/pysentinel-miniSIEM) & [rootcrawlerAI](https://github.com/murillohwg/rootcrawlerAI-secscanner)
 - [CTF writeups](https://github.com/murillohwg/ctf-writeup)
 - [AWS hands-on labs](https://github.com/murillohwg/aws-cloud-labs) 
-- Estudos de segurança
+- Cybersecurity Studies
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
