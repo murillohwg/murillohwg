@@ -2,7 +2,6 @@
 
 Computer Science Student focusing:
 - Deffensive & Offensive Security
-- Cloud Security
 - OSINT
 - Technical Documentation
 
