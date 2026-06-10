@@ -8,6 +8,7 @@ Computer Science Student focusing:
 ## Interesting Projects
 - [pysentinel](https://github.com/murillohwg/pysentinel-miniSIEM) & [rootcrawlerAI](https://github.com/murillohwg/rootcrawlerAI-secscanner)
 - [CTF writeups](https://github.com/murillohwg/ctf-writeup)
+- [blue-team-labs](https://github.com/murillohwg/blue-team-labs)
 - [AWS hands-on labs](https://github.com/murillohwg/aws-cloud-labs) 
 - Cybersecurity Studies
 
