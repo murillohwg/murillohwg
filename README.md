@@ -5,7 +5,7 @@ Computer Science Student focusing:
 - OSINT
 - Technical Documentation
 
-## Projetos em destaque
+## Interesting Projects
 - [pysentinel](https://github.com/murillohwg/pysentinel-miniSIEM) & [rootcrawlerAI](https://github.com/murillohwg/rootcrawlerAI-secscanner)
 - [CTF writeups](https://github.com/murillohwg/ctf-writeup)
 - [AWS hands-on labs](https://github.com/murillohwg/aws-cloud-labs) 
