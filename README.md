@@ -1,7 +1,7 @@
 # Murillohwg - Independent Cybersecurity Researcher 
 
 Computer Science Student focusing:
-- Deffensive and Offensive Security
+- Deffensive & Offensive Security
 - Cloud Security
 - OSINT
 - Technical Documentation
