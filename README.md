@@ -7,6 +7,11 @@ Computer Science Student
 Independent Cybersecurity Researcher
 
 Blue Team • DFIR • Offensive Security
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cybersecurity+Researcher;Blue+Team+%7C+DFIR+%7C+Bug+Bounty;Building+Security+Tools+with+Python" />
+</p>
+
 ```
 
 ---
