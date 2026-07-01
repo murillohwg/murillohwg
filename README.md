@@ -6,7 +6,7 @@ murillohwg
 Computer Science Student
 Independent Cybersecurity Researcher
 
-Blue Team • DFIR • Bug Bounty • Offensive Security
+Blue Team • DFIR • Offensive Security
 ```
 
 ---
