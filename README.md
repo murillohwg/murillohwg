@@ -1,29 +1,101 @@
-# Murillohwg - Independent Cybersecurity Researcher 
+# $ whoami
 
-Computer Science Student focusing:
-- Deffensive & Offensive Security
-- OSINT
-- Technical Documentation
+```console
+murillohwg
 
-## Interesting Projects
-- [pysentinel](https://github.com/murillohwg/pysentinel-miniSIEM) & [rootcrawlerAI](https://github.com/murillohwg/rootcrawlerAI-secscanner)
-- [CTF writeups](https://github.com/murillohwg/ctf-writeup)
-- [blue-team-labs](https://github.com/murillohwg/blue-team-labs)
-- [AWS hands-on labs](https://github.com/murillohwg/aws-cloud-labs)
-- Cybersecurity Studies
+Computer Science Student
+Independent Cybersecurity Researcher
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=protonmail&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+Blue Team • DFIR • Bug Bounty • Offensive Security
+```
+
+---
+
+## $ cat about.txt
+
+I'm a Computer Science student passionate about Cybersecurity.
+
+I enjoy building security tools, documenting hands-on labs, solving CTFs and researching both offensive and defensive security techniques.
+
+My repositories focus on practical learning through real-world projects rather than theoretical examples.
+
+---
+
+## $ ls featured-projects
+
+📁 **Security Tools**
+- [PySentinel](https://github.com/murillohwg/pysentinel-miniSIEM) — Lightweight SIEM built in Python
+- [RootCrawlerAI](https://github.com/murillohwg/rootcrawlerAI-secscanner) — AI-assisted web security scanner
+
+📁 **Labs & Documentation**
+- [Blue Team Labs](https://github.com/murillohwg/blue-team-labs)
+- [AWS Security Labs](https://github.com/murillohwg/aws-cloud-labs)
+- [CTF Writeups](https://github.com/murillohwg/ctf-writeup)
+
+---
+
+## $ ls skills
+
+```text
+Python
+Linux
+Networking
+AWS
+Git
+Bash
+OSINT
+IAM
+Cloud Security
+```
+
+---
+
+## $ cat currently_learning.txt
+
+```text
+- Bug Bounty
+- Detection Engineering
+- Active Directory
+- Web Application Security
+- Malware Analysis
+```
+
+---
+
+## $ uptime
+
+```text
+✔ Building cybersecurity tools
+
+✔ Solving CTFs
+
+✔ Writing technical documentation
+
+✔ Studying Offensive & Defensive Security
+
+✔ Publishing practical security projects
+```
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murillohwg&show_icons=true&theme=github_dark&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murillohwg&theme=github-dark&hide_border=true">
+</p>
