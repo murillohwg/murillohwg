@@ -1,105 +1,151 @@
+<div align="center">
 
-```console
- whoami
+# murillo@security-lab:~$
+
+```
+═══════════════════════════════════════════════════════════════════════
+
+ Last login: Today
+
+ Welcome to Security Lab v1.0
+
+═══════════════════════════════════════════════════════════════════════
 ```
 
-murillohwg
+</div>
+
+```console
+murillo@security-lab:~$ whoami
+
+Murillo Henrique
 
 Computer Science Student
+
 Independent Cybersecurity Researcher
 
 Blue Team • DFIR • Offensive Security
+```
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cybersecurity+Researcher;Blue+Team+%7C+DFIR+%7C+Bug+Bounty;Building+Security+Tools+with+Python" />
-</p>
----
+```console
+murillo@security-lab:~$ cat mission.txt
 
-## $ cat about.txt
+Learning cybersecurity through building,
+breaking, documenting and automating.
 
-I'm a Computer Science student passionate about Cybersecurity.
+Every public repository represents a real
+project, lab or research conducted during
+my learning journey.
+```
 
-I enjoy building security tools, documenting hands-on labs, solving CTFs and researching both offensive and defensive security techniques.
+```console
+murillo@security-lab:~$ ls ~/repositories
 
-My repositories focus on practical learning through real-world projects rather than theoretical examples.
+📁 pysentinel/
+│   └── Lightweight SIEM built with Python
 
----
+📁 rootcrawlerAI/
+│   └── AI-assisted web vulnerability scanner
 
-## $ ls featured-projects
+📁 blue-team-labs/
+│   └── SOC investigations & DFIR labs
 
-📁 **Security Tools**
-- [PySentinel](https://github.com/murillohwg/pysentinel-miniSIEM) — Lightweight SIEM built in Python
-- [RootCrawlerAI](https://github.com/murillohwg/rootcrawlerAI-secscanner) — AI-assisted web security scanner
+📁 aws-cloud-labs/
+│   └── Cloud Security hands-on projects
 
-📁 **Labs & Documentation**
-- [Blue Team Labs](https://github.com/murillohwg/blue-team-labs)
-- [AWS Security Labs](https://github.com/murillohwg/aws-cloud-labs)
-- [CTF Writeups](https://github.com/murillohwg/ctf-writeup)
+📁 ctf-writeups/
+│   └── Documented CTF solutions
+```
 
----
+```console
+murillo@security-lab:~$ tree ~/research
 
-## $ ls skills
+research
+├── Blue Team
+│   ├── SOC
+│   ├── DFIR
+│   └── Detection Engineering
+│
+├── Offensive Security
+│   ├── Web Security
+│   ├── Bug Bounty
+│   └── OSINT
+│
+└── Automation
+    ├── Python
+    └── Bash
+```
 
-```text
+```console
+murillo@security-lab:~$ cat skills.conf
+
 Python
 Linux
 Networking
 AWS
 Git
 Bash
-OSINT
 IAM
 Cloud Security
 ```
 
----
+```console
+murillo@security-lab:~$ cat currently-learning.txt
 
-## $ cat currently_learning.txt
+> Bug Bounty
 
-```text
-- Bug Bounty
-- Detection Engineering
-- Active Directory
-- Web Application Security
-- Malware Analysis
+> Active Directory
+
+> Detection Engineering
+
+> Malware Analysis
+
+> Web Exploitation
 ```
 
----
+```console
+murillo@security-lab:~$ status
 
-## $ uptime
-
-```text
-✔ Building cybersecurity tools
+✔ Building security tools
 
 ✔ Solving CTFs
 
 ✔ Writing technical documentation
 
-✔ Studying Offensive & Defensive Security
+✔ Publishing research
 
-✔ Publishing practical security projects
+✔ Learning every day
 ```
 
 ---
 
-## Tech Stack
+## GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Networking](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=murillohwg&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillohwg&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## GitHub Activity
+```console
+murillo@security-lab:~$ contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murillohwg&show_icons=true&theme=github_dark&hide_border=true">
-</p>
+GitHub     → github.com/murillohwg
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murillohwg&theme=github-dark&hide_border=true">
-</p>
+LinkedIn   → linkedin.com/in/SEU-LINK
+
+Email      → you@example.com
+```
+
+```console
+murillo@security-lab:~$ exit
+
+logout
+
+Connection closed.
+
+See you in the next commit.
+```
