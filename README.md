@@ -1,5 +1,5 @@
 
-## murillohwg@security-lab:~$
+## murillohwg@portfolio:~$
 
 ```
 ═══════════════════════════════════════════════════════════════════════
@@ -21,9 +21,9 @@
 ```
 
 ```console
-murillo@security-lab:~$ whoami
+murillohwg@portfolio:~$ whoami
 
-Murillo Henrique
+Murillo Henrico
 
 Computer Science Student
 
@@ -33,7 +33,7 @@ Blue Team • DFIR • Offensive Security
 ```
 
 ```console
-murillo@security-lab:~$ cat mission.txt
+murillohwg@portfolio:~$ cat mission.txt
 
 Learning cybersecurity through building,
 breaking, documenting and automating.
@@ -44,7 +44,7 @@ my learning journey.
 ```
 
 ```console
-murillo@security-lab:~$ ls ~/repositories
+murillohwg@portfolio:~$ ls ~/repositories
 
 📁 pysentinel/
 │   └── Lightweight SIEM built with Python
@@ -55,8 +55,8 @@ murillo@security-lab:~$ ls ~/repositories
 📁 blue-team-labs/
 │   └── SOC investigations & DFIR labs
 
-📁 ctf-writeups/
-│   └── Documented CTF solutions
+📁 ctf-writeup/
+│   └── Documented CTFs solutions
 
 📁 aws-cloud-labs/
 │   └── Cloud Security hands-on projects
@@ -64,7 +64,7 @@ murillo@security-lab:~$ ls ~/repositories
 ```
 
 ```console
-murillo@security-lab:~$ tree ~/research
+murillohwg@portfolio:~$ tree ~/research
 
 research
 ├── Blue Team
@@ -83,7 +83,7 @@ research
 ```
 
 ```console
-murillo@security-lab:~$ cat skills.conf
+murillohwg@portfolio:~$ cat skills.conf
 
 Python
 Linux
@@ -98,7 +98,7 @@ IAM
 ```
 
 ```console
-murillo@security-lab:~$ cat currently-learning.txt
+murillohwg@portfolio:~$ cat currently-learning.txt
 
 > Bug Bounty
 
@@ -112,7 +112,7 @@ murillo@security-lab:~$ cat currently-learning.txt
 ```
 
 ```console
-murillo@security-lab:~$ status
+murillohwg@portfolio:~$ status
 
 ✔ Building security tools
 
@@ -127,7 +127,7 @@ murillo@security-lab:~$ status
 ---
 
 ```console
-murillo@security-lab:~$ contact
+murillohwg@portfolio:~$ contact
 
 GitHub     → github.com/murillohwg
 
@@ -137,7 +137,7 @@ Email      → murillowagnerg@gmail.com
 ```
 
 ```console
-murillo@security-lab:~$ exit
+murillohwg@portfolio:~$ exit
 
 logout
 
