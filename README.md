@@ -9,6 +9,15 @@
 
  Welcome to Security Lab v1.0
 
+ 
+        .--.
+      _(o  o)_
+     /   --   \
+    |  \____/  |
+     \________/
+
+
+
 ═══════════════════════════════════════════════════════════════════════
 ```
 
@@ -115,19 +124,6 @@ murillo@security-lab:~$ status
 
 ✔ Learning every day
 ```
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=murillohwg&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillohwg&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
 ---
 
 ```console
