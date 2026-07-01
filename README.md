@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # murillo@security-lab:~$
 
@@ -58,11 +58,12 @@ murillo@security-lab:~$ ls ~/repositories
 📁 blue-team-labs/
 │   └── SOC investigations & DFIR labs
 
+📁 ctf-writeups/
+│   └── Documented CTF solutions
+
 📁 aws-cloud-labs/
 │   └── Cloud Security hands-on projects
 
-📁 ctf-writeups/
-│   └── Documented CTF solutions
 ```
 
 ```console
@@ -90,11 +91,13 @@ murillo@security-lab:~$ cat skills.conf
 Python
 Linux
 Networking
+Web Exploitation
+Digital Forensics
+OSINT
 AWS
 Git
 Bash
 IAM
-Cloud Security
 ```
 
 ```console
@@ -102,7 +105,7 @@ murillo@security-lab:~$ cat currently-learning.txt
 
 > Bug Bounty
 
-> Active Directory
+> Digital Forensics
 
 > Detection Engineering
 
@@ -131,9 +134,9 @@ murillo@security-lab:~$ contact
 
 GitHub     → github.com/murillohwg
 
-LinkedIn   → linkedin.com/in/SEU-LINK
+LinkedIn   → linkedin.com/in/murillo-henrico-w-g-21ba50378/
 
-Email      → you@example.com
+Email      → murillowagnerg@gmail.com
 ```
 
 ```console
