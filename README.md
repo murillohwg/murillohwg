@@ -6,7 +6,7 @@
 
  Last login: Today
 
- Welcome to Security Lab v1.0
+ Welcome to my Portfolio v1.0
 
    .--.
   |o_o |
